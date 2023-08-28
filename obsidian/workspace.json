@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "fa1e9e6f8aa58d06",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b9f11be7bb817b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59dd9d459d0b016c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "machineLearning II.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e183c0d2af4e923",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba5afdd33f1542a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84f8901fa8ddc2b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "980ab9229a92ea38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab8dd144cbe267c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "cf7750ce3a7359e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac544bd3974d3a96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fe71ffb5e4df53d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "machineLearning II.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd5168337819109f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "machineLearning II.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2be3d337977f3f8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "845cd434ae095f01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "machineLearning II.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "59dd9d459d0b016c",
+  "lastOpenFiles": [
+    "machineLearning II.pdf",
+    "video.mkv",
+    "output.gif",
+    "assets/pixel-jeff-mario.gif",
+    "assets/pexels-lukas-577210.jpg",
+    "assets",
+    "machineLearning II.md"
+  ]
+}
