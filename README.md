@@ -24,6 +24,7 @@ Bem-vindo ao Guia de Estudo de Machine Learning! 🚀 Este arquivo reúne os pri
 - Tópicos bônus que complementam seu aprendizado.
 - Tópico de ensino baseado no **Princípio de Pareto**.
 
+
 📖 **Como Usar Este Guia:**
 
 1. Explore os tópicos na ordem que preferir. Sinta-se à vontade para pular para os assuntos que mais lhe interessam.
@@ -59,3 +60,5 @@ Aqui está o  mapa de aprendizado! ⬇️
 
 
 Prepare-se para uma jornada incrível no mundo da Machine Learning! 🤖🌟
+
+
