@@ -1,10 +1,15 @@
-
+<p align="center">
+<img 
+    src="assets/pixel-jeff-mario.gif"
+    width="1200"  
+/>
+</p>
 
 
 
 **OBS**: Você ira precisar do [Obsidian](https://obsidian.md/) para prosseguir com este template de ensino
 
-📚 **Guia de Estudo de Machine Learning** 🤖
+# 📚 **Guia de Estudo de Machine Learning** 🤖
 
 Bem-vindo ao Guia de Estudo de Machine Learning! 🚀 Este arquivo reúne os principais conceitos e tópicos essenciais para você dominar o mundo do Machine Learning. Aqui você encontrará uma variedade de informações, desde modelos de classificação até técnicas avançadas de aprendizado por reforço.  tudo de maneira organizada e cativante! 🧠💡
 
